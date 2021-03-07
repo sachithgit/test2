@@ -1,0 +1,45 @@
+PYTHON
+
+*Expressions
+
+50 + 10 =60 (This total thing is called as expression)
+
+50,10 are called as operands
+
++, = are called as operators
+
+Operators priority in python defined as PEMDAS
+
+()-Paranthis(P) has highest priority next 
+
+** - Exponential(E) has second priority Example 2**5 =32 
+
+* - Multiplication(M) has third priority
+
+/ -  Divison has 4th priority
+
+A- Addition (A) & subtraction has last priority
+
+
+Example:
+
+(2+5)-6*(10/2)
+
+First (2+5) will be executed 
+
+next (10/2) wil be executed
+
+then 6*(10/2) will be executed.
+
+7-6*5=-23
+
+
+
+
+
+
+
+
+
+
+
